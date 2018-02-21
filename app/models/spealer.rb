@@ -1,0 +1,2 @@
+class Spealer < ApplicationRecord
+end
